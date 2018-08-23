@@ -5,7 +5,9 @@ use Codefii\Controller\BaseController;
 abstract class Controller extends BaseController
 {
   public function init(){
-    // $this->setHeader("path/to/your/header");
-    // $this->setFooter('path/to/your/footer');
+    $this->setHeader("includes/header");
+    $this->setFooter("includes/footer");
   }
+
+
 }
