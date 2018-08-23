@@ -1,0 +1,56 @@
+.main-cover div.inner-1 {
+	display: block;
+}
+
+.main-cover div.inner-1 h4 {
+	font-size: 18px;
+}	
+
+.main-cover div.inner-1 p.reg-info {
+	font-size: 14px;
+}
+.main-cover div.sign-up-box { 
+	width: 100%;
+}
+
+.main-cover div.sign-up-box  {
+	display: none;
+}
+
+.main-cover div.search-box input[type=text] {
+	width: 100%;
+}	
+
+.features-container div.inner {
+	display: block;
+}	
+
+.laydown-bg h1 {
+	color:#fff;
+	font-size: 16px;
+}
+
+.main-footer div.first-container {
+	margin-right:3px;
+	margin-left: 3px; 	
+}
+
+.main-footer div.first-container div.inner {
+	display: block;
+	margin-right: 0px;
+}
+
+.main-footer div.first-container div.inner div.flex {
+	flex:1;
+	width: 80%;
+	margin-right: 5px;	
+	margin-left: 5px;
+}
+
+.auth-form { 
+	width: 95%;
+} 
+
+.auth-form p.flex{
+	display: block;
+}	
